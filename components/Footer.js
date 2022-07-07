@@ -1,8 +1,8 @@
 const Footer = () => {
     return ( 
-    <div>
+    <footer>
         <p>Copyright 2022 Movies List</p>
-    </div> );
+    </footer> );
 }
  
 export default Footer;

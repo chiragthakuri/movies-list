@@ -4,7 +4,7 @@ const Navbar = () => {
     return ( 
         <nav>
             <div className="logo">
-                <h1>Movies List</h1>
+                <h1>Movies</h1>
             </div>
 
             <Link href="/">
@@ -16,7 +16,7 @@ const Navbar = () => {
             </Link>
 
             <Link href="/movies">
-                <a>Movies Listing</a>
+                <a>Movies</a>
             </Link>
         </nav>
      );
